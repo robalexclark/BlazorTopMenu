@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor-Top-Menu", "Blazor-Top-Menu\Blazor-Top-Menu.csproj", "{539E108C-F79E-4DF3-A3DE-B00576F30625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539E108C-F79E-4DF3-A3DE-B00576F30625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539E108C-F79E-4DF3-A3DE-B00576F30625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539E108C-F79E-4DF3-A3DE-B00576F30625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539E108C-F79E-4DF3-A3DE-B00576F30625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F20496-9C58-4FFD-82A3-8569314556D4}
+	EndGlobalSection
+EndGlobal
